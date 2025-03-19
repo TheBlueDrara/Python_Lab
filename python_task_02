@@ -1,0 +1,10 @@
+# Page 45
+
+i_face = "Bos was here"
+print(i_face)
+print(i_face[3:8:])
+print(i_face[10])
+print(i_face[0].isupper())
+
+
+
